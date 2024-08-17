@@ -6,7 +6,7 @@ type Props = {}
 const Page = (props: Props) => {
   return (
     <View style={styles.container}>
-      <Text>Home Screen</Text>
+      <Text>Saved Screen</Text>
     </View>
   )
 }
